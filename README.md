@@ -22,10 +22,10 @@ Rust · Python · C/C++ · Haskell
 
 **Focus Areas:**  
 - Audio and signal processing (Rust + Burn)  
-- GPU programming (WGSL)  
 - Machine learning (Burn, PyTorch)  
 - Simulation and numerical analysis  
-- Functional and concurrent programming  
+- Functional and concurrent programming
+- GPU programming (WGSL)  
 
 **Tools:**  
 Linux · Git · Maple · LaTeX · Photoshop  
@@ -45,7 +45,6 @@ Explores solvable stochastic processes using the Matrix Ansatz without requiring
 
 - Music Generator — procedural composition in Rust  
 - Ray Casting Engine — 2D/3D rendering experiments  
-- AI for Sound Analysis — neural networks on raw waveforms with Burn  
 
 I enjoy combining mathematics, creativity, and code to build systems that are both analytical and expressive.
 
@@ -55,7 +54,6 @@ I enjoy combining mathematics, creativity, and code to build systems that are bo
 
 - Real-time audio generation and effects  
 - Machine learning entirely in Rust  
-- Human-centered procedural tools  
 
 ---
 
@@ -64,7 +62,3 @@ I enjoy combining mathematics, creativity, and code to build systems that are bo
 Email: [fabien.mathieu92@gmail.com](mailto:fabien.mathieu92@gmail.com)  
 arXiv: [A Stochastic Model Solvable Without Integrability](https://arxiv.org/pdf/2206.14473.pdf)  
 Location: Annecy, France  
-
----
-
-> Between code and sound, between structure and chance — I like to build things that listen as much as they compute.
